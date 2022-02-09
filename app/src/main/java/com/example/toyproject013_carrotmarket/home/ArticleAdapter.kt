@@ -17,7 +17,7 @@ class ArticleAdapter : ListAdapter<ArticleModel, ArticleAdapter.ViewHolder>(diff
 
         fun bind(articleModel: ArticleModel) {
 
-            val format = SimpleDateFormat("MM월 DD일 ")
+            val format = SimpleDateFormat("MM월 dd일")
             val date = Date(articleModel.createdAt)
             binding.titleTextView.text = articleModel.title
             binding.dateTextView.text = format.format(date).toString()
