@@ -11,10 +11,13 @@
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/drawable/ic_person.xml" value="0.138" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/drawable/selecor_menu_color.xml" value="0.187" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/activity_add_article.xml" value="0.36614583333333334" />
+        <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/activity_chatroom.xml" value="0.1890625" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/fragment_chatlist.xml" value="0.36614583333333334" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/fragment_home.xml" value="0.33" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/fragment_mypage.xml" value="0.28703703703703703" />
+        <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/item_chat.xml" value="0.67" />
+        <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/item_chat_list.xml" value="0.36614583333333334" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/layout/itemarticlebinding.xml" value="0.36614583333333334" />
         <entry key="..\:/Project/ToyProject013carrotMarket/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
       </map>
