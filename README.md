@@ -18,7 +18,7 @@ Firebase Realtime Database ,
 Firebase Authentication 
 
 ## ✔실행화면
-![홈](https://user-images.githubusercontent.com/76811495/153750780-9683b422-6ef5-4add-9979-c6ef201df6b7.PNG)
+![홈](https://user-images.githubusercontent.com/76811495/153751013-c47d74a7-500a-4dd0-838a-2e9de1733c16.PNG)
 <br>
 <홈 화면>
 
