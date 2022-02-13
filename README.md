@@ -11,7 +11,7 @@
 ## ✔실행화면
 ![홈](https://user-images.githubusercontent.com/76811495/153750780-9683b422-6ef5-4add-9979-c6ef201df6b7.PNG)
 <br>
-<홈화면>
+<홈 화면>
 
 ![아이템 등록](https://user-images.githubusercontent.com/76811495/153750801-35c49604-8935-474c-84b6-e0600902c2d3.PNG)
 <br>
