@@ -23,4 +23,4 @@
 
 ![나의정보](https://user-images.githubusercontent.com/76811495/153750821-009f5a02-36ce-4a05-8661-db6693e27248.PNG)
 <br>
-<나의 >
+<나의 정보>
