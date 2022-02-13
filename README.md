@@ -8,6 +8,15 @@
 <li>회원 기반으로 채팅 화면을 구현 할 수 있다. </li>
 </ul>
 
+##  ✔활용 기술
+RecyclerView 
+View Binding 
+Fragment 
+BottomNavigationView 
+Firebase Storage 
+Firebase Realtime Database 
+Firebase Authentication 
+
 ## ✔실행화면
 ![홈](https://user-images.githubusercontent.com/76811495/153750780-9683b422-6ef5-4add-9979-c6ef201df6b7.PNG)
 <br>
