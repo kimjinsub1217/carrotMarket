@@ -1,4 +1,4 @@
-# 📌# # carrotMarket
+# 📌carrotMarket
 > 당근마켓
 
 ## ✔기능
